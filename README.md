@@ -1,4 +1,5 @@
 # Unsupervised Representation Learning for TimeSeries with Temporal Neighborhood Coding (TNC)
+!Isue in the dataloader: s. issue of original repo.
 
 ![Screenshot](tnc.png)
 
